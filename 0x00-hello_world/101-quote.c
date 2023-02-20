@@ -1,6 +1,6 @@
 /*
  * File: 101-quote.c
- * Auth: Benjamin M Musyoki
+ * Auth: Dokun Ayano
  */
 
 #include <unistd.h>
